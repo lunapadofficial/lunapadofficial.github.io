@@ -98,10 +98,9 @@ footer {
     flex-wrap: wrap;
     flex-flow: column;
     align-items: center;
-    background-color: #7f7d7d;
-
 }
 
 .f_content {
     flex: 1;
+    margin: 10px;
 }
